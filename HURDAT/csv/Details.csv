@@ -1,4 +1,4 @@
-Key,Datetime,Record,Status,Latitude,Longitude,Wind,Pressure
+key,date_time,record,status,latitude,longitude,wind,pressure
 AL011851,1851-06-25T00:00:00Z,NA,HU,28.0,-94.8,80,NA
 AL011851,1851-06-25T06:00:00Z,NA,HU,28.0,-95.4,80,NA
 AL011851,1851-06-25T12:00:00Z,NA,HU,28.0,-96.0,80,NA
